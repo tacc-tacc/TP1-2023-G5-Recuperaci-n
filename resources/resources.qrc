@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>arrowdown.png</file>
+    <file>arrowup.png</file>
+    <file>circuit.png</file>
+  </qresource>
+</RCC>
