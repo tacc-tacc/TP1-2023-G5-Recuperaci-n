@@ -1241,73 +1241,13 @@
             </widget>
            </item>
            <item row="3" column="0">
-            <widget class="QLabel" name="label_36">
-             <property name="text">
-              <string>Order</string>
-             </property>
-            </widget>
-           </item>
-           <item row="3" column="1">
-            <widget class="QLabel" name="N_label">
-             <property name="maximumSize">
-              <size>
-               <width>16777215</width>
-               <height>20</height>
-              </size>
-             </property>
-             <property name="text">
-              <string>?</string>
-             </property>
-            </widget>
-           </item>
-           <item row="4" column="0">
-            <widget class="QLabel" name="label_32">
-             <property name="text">
-              <string>Max Q</string>
-             </property>
-            </widget>
-           </item>
-           <item row="4" column="1">
-            <widget class="QLabel" name="max_Q_label">
-             <property name="maximumSize">
-              <size>
-               <width>16777215</width>
-               <height>20</height>
-              </size>
-             </property>
-             <property name="text">
-              <string>?</string>
-             </property>
-            </widget>
-           </item>
-           <item row="5" column="0">
-            <widget class="QLabel" name="label_35">
-             <property name="sizePolicy">
-              <sizepolicy hsizetype="Preferred" vsizetype="Maximum">
-               <horstretch>0</horstretch>
-               <verstretch>0</verstretch>
-              </sizepolicy>
-             </property>
-             <property name="text">
-              <string>DR loss</string>
-             </property>
-            </widget>
-           </item>
-           <item row="5" column="1">
-            <widget class="QLabel" name="drloss_label">
-             <property name="text">
-              <string>?</string>
-             </property>
-            </widget>
-           </item>
-           <item row="6" column="0">
             <widget class="QLabel" name="label_28">
              <property name="text">
               <string>Gain</string>
              </property>
             </widget>
            </item>
-           <item row="6" column="1">
+           <item row="3" column="1">
             <widget class="QDoubleSpinBox" name="gain_box">
              <property name="minimum">
               <double>0.010000000000000</double>
@@ -1323,14 +1263,14 @@
              </property>
             </widget>
            </item>
-           <item row="7" column="0">
+           <item row="4" column="0">
             <widget class="QLabel" name="label_61">
              <property name="text">
               <string>Denorm.</string>
              </property>
             </widget>
            </item>
-           <item row="7" column="1">
+           <item row="4" column="1">
             <widget class="QDoubleSpinBox" name="denorm_box">
              <property name="suffix">
               <string>%</string>
